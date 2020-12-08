@@ -1,3 +1,5 @@
 *.txt
 !video.txt
 config.cfg
+trustedlaunch.cfg
+*.rar
